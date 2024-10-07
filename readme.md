@@ -1,6 +1,6 @@
 # K-Rauta
 
-## Home page
+## Home Page
 
 ### Header
 
@@ -28,7 +28,7 @@
 #### Yellow button "Tellimuse Informatsioon"** 
 - When clicked directs you to another page where you can check your order status
 
-### Header section
+### Header Section
 - Company logo
 - Search bar to search a specific product
 - Log IN & Sign UP button to create an account
@@ -40,11 +40,12 @@
 - Text that encourages site visitors to join with Smart Net loyalty program and save on purchases
 - A join button that you can press to join Smart Net <br/>
 
-### Category section
-#### Vertical container
+### Category Section
+
+#### Vertical Container
 - Lists all of the product categories the **K-Rauta Store** has to offer
 
-#### Horizontal container
+#### Horizontal Container
 - Button "KAMPAANIAD" which gives you all of the compaigns going on
 - Button "SMART NET" which directs you to the Smart Net info page
 - Button "Koduomanik" which directs you to a page which lets you join the home owner's program
@@ -54,4 +55,35 @@
 - Button "Ideest lahenduseni" which directs you to a page which helps you solve your problems when choosing a certain product
 - Button "Meie kaubamärgid" which directs you to a page which gives you all of the companies logos K-Rauta is partnering with
 
+### Main Section
+
+#### Recommended products section
+- Card swiper which shows all of the recommended products
+- Three mostly bought categories
+- Card swiper with all of the K-Rauta's partner companies
+
+#### For you Section
+When NOT Logged IN:
+- Gives you a random selection of products that might be suitable for you
+When Logged IN:
+- Gives you a selection of products suitable for you, based on your history on the store
+
+#### Product Section
+- When scrolling gives you recommended products in all of the categories listed on the "Horizontal Container"
+
+### Info Section
+
+#### Shipping
+- Button "Tarne", which gives you information about shipping
+
+#### Return Options & Guarantee
+- Button "Garantii ja tagastus", which gives you information about Return Options & Guarantee
+
+#### Payment Methods
+- Button "Makseviisid", which gives you information about all of the payment methods
+
+#### Customer Service
+- Button "Klienditeenindus", which gives you information about customer service
+
+### Footer
 
