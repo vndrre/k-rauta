@@ -44,6 +44,14 @@
 #### Vertical container
 - Lists all of the product categories the **K-Rauta Store** has to offer
 
-###
+#### Horizontal container
+- Button "KAMPAANIAD" which gives you all of the compaigns going on
+- Button "SMART NET" which directs you to the Smart Net info page
+- Button "Koduomanik" which directs you to a page which lets you join the home owner's program
+- Button "Teenused" which directs you to a page with listed services the company offers
+- Button "Mööbel" which directs you to a page which lists all of the furniture product categories
+- Button "Kataloogid" which directs you to a page for catalogs
+- Button "Ideest lahenduseni" which directs you to a page which helps you solve your problems when choosing a certain product
+- Button "Meie kaubamärgid" which directs you to a page which gives you all of the companies logos K-Rauta is partnering with
 
 
